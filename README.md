@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Gabriel Marochi</h1>
+<h1 align="center">Hello World! I'm Gabriel Marochi Schmidt</h1>
 
 ###
 
