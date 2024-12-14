@@ -3,9 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/gabrielm.schmidt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielmarochi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="gabrielmarochischmidt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -14,7 +20,7 @@
 
 ###
 
-<p align="left">- 🎓 Computer Science - UNICENTRO<br>- 📚 Currently studying CNNs, Web Development and Cloud Services<br>- ⚡ Areas of Interest: Machine Learning, Data Science and Web Development</p>
+<p align="left">- 🎓 Computer Science - UNICENTRO<br>- 📚 Currently studying CNNs, Web Development and Cloud Services<br>- ⚡ Areas of Interest: Machine Learning, Data Science and Web Development<br>- 📭 Contato: gabrielmarochischmidt@gmail.com</p>
 
 ###
 
