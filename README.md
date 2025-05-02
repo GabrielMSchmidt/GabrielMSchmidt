@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🎓 Computer Science - UNICENTRO<br>- 📚 Currently studying CNNs, Web Development and Cloud Services<br>- ⚡ Areas of Interest: Machine Learning, Data Science and Web Development<br>- 📭 Contato: gabrielmarochischmidt@gmail.com</p>
+<p align="left">- 🎓 Computer Science - UNICENTRO<br>- 📚 Currently studying Data Science, Web Development and Cloud Services<br>- ⚡ Areas of Interest: Data Science and Web Development<br>- 📭 Contact: gabrielmarochischmidt@gmail.com</p>
 
 ###
 
