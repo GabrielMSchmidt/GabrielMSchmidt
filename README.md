@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielm.schmidt/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabrielmarochi/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:gabrielmarochischmidt@gmail.com)
-[![Currículo](https://custom-icon-badges.demolab.com/badge/Curriculo-0078d7.svg?logo=vsc&logoColor=white)](https://drive.google.com/file/d/1zEffCcq-OD2dPumJvMASPpBNxFLIiqLg/view?usp=sharing)
+[![Resume](https://custom-icon-badges.demolab.com/badge/Resume-PT-0078d7.svg?logo=vsc&logoColor=white)](https://drive.google.com/file/d/1zEffCcq-OD2dPumJvMASPpBNxFLIiqLg/view?usp=sharing)
 
 </div>
 
